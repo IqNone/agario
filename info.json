@@ -1,0 +1,145 @@
+{
+  "MASTER_START": 1434134280976,
+  "regions": {
+    "US-Fremont": {
+      "numPlayers": 5384,
+      "numRealms": 62,
+      "numServers": 20
+    },
+    "US-Atlanta": {
+      "numPlayers": 7884,
+      "numRealms": 89,
+      "numServers": 44
+    },
+    "EU-London": {
+      "numPlayers": 19422,
+      "numRealms": 271,
+      "numServers": 149
+    },
+    "JP-Tokyo": {
+      "numPlayers": 4565,
+      "numRealms": 45,
+      "numServers": 15
+    },
+    "SG-Singapore": {
+      "numPlayers": 2457,
+      "numRealms": 21,
+      "numServers": 7
+    },
+    "RU-Russia": {
+      "numPlayers": 6310,
+      "numRealms": 70,
+      "numServers": 24
+    },
+    "CN-China": {
+      "numPlayers": 1817,
+      "numRealms": 15,
+      "numServers": 5
+    },
+    "BR-Brazil": {
+      "numPlayers": 3204,
+      "numRealms": 64,
+      "numServers": 37
+    },
+    "US-Atlanta:teams": {
+      "numPlayers": 1301,
+      "numRealms": 13,
+      "numServers": 4
+    },
+    "US-Fremont:teams": {
+      "numPlayers": 1076,
+      "numRealms": 9,
+      "numServers": 3
+    },
+    "EU-London:teams": {
+      "numPlayers": 2656,
+      "numRealms": 27,
+      "numServers": 16
+    },
+    "SG-Singapore:teams": {
+      "numPlayers": 471,
+      "numRealms": 5,
+      "numServers": 2
+    },
+    "RU-Russia:teams": {
+      "numPlayers": 896,
+      "numRealms": 9,
+      "numServers": 3
+    },
+    "CN-China:teams": {
+      "numPlayers": 444,
+      "numRealms": 5,
+      "numServers": 2
+    },
+    "JP-Tokyo:teams": {
+      "numPlayers": 531,
+      "numRealms": 7,
+      "numServers": 3
+    },
+    "BR-Brazil:teams": {
+      "numPlayers": 457,
+      "numRealms": 6,
+      "numServers": 4
+    },
+    "TK-Turkey": {
+      "numPlayers": 3987,
+      "numRealms": 42,
+      "numServers": 23
+    },
+    "TK-Turkey:teams": {
+      "numPlayers": 601,
+      "numRealms": 7,
+      "numServers": 3
+    },
+    "BR-Brazil:experimental": {
+      "numPlayers": 278,
+      "numRealms": 4,
+      "numServers": 2
+    },
+    "CN-China:experimental": {
+      "numPlayers": 290,
+      "numRealms": 4,
+      "numServers": 2
+    },
+    "EU-London:experimental": {
+      "numPlayers": 1476,
+      "numRealms": 15,
+      "numServers": 5
+    },
+    "JP-Tokyo:experimental": {
+      "numPlayers": 426,
+      "numRealms": 6,
+      "numServers": 2
+    },
+    "RU-Russia:experimental": {
+      "numPlayers": 638,
+      "numRealms": 6,
+      "numServers": 2
+    },
+    "SG-Singapore:experimental": {
+      "numPlayers": 443,
+      "numRealms": 5,
+      "numServers": 2
+    },
+    "TK-Turkey:experimental": {
+      "numPlayers": 409,
+      "numRealms": 5,
+      "numServers": 2
+    },
+    "US-Atlanta:experimental": {
+      "numPlayers": 702,
+      "numRealms": 6,
+      "numServers": 2
+    },
+    "US-Fremont:experimental": {
+      "numPlayers": 637,
+      "numRealms": 5,
+      "numServers": 3
+    }
+  },
+  "totals": {
+    "numPlayers": 68844,
+    "numRealms": 828,
+    "numServers": 391
+  }
+}
